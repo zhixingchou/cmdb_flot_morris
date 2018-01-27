@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="63b60a35-110b-478a-881c-43fcc43258c9" name="opsmanage_pratice-cmdb" url="http://192.168.2.22">
+        <fileTransfer host="192.168.2.22" port="12061" rootFolder="/djangopratice/cmdb/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="12061" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
